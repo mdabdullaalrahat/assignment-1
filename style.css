@@ -71,7 +71,7 @@ nav{
 
 .banner{
 
- background: url("/assets/hero-bg.png");
+ background: url("assets/hero-bg.png");
     width: 1600px;
     height: 680px;
     align-items: center;
